@@ -1,0 +1,13 @@
+Dataset Name: Customer Analytics Dataset
+
+Number of Rows: (Check using df.shape[0])
+Number of Columns: (Check using df.shape[1])
+
+Data Types:
+- Numerical Columns: Age, Income, SpendingScore, etc.
+- Categorical Columns: Gender, City, etc.
+
+Summary:
+Each row represents one customer.
+The dataset includes demographic and behavioral information
+used to analyze customer patterns and relationships.

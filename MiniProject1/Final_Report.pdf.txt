@@ -1,0 +1,47 @@
+
+---
+
+# 5️⃣ Final Report File (Content for PDF)
+
+Create a PDF named **Final_Report.pdf**
+
+Include:
+
+---
+
+## Mini Project 1 – EDA Report
+
+### 1. Introduction
+The dataset contains customer analytics data. Each row represents an individual customer and includes demographic and behavioral attributes.
+
+### 2. Data Cleaning
+- Missing numerical values filled with median.
+- Missing categorical values filled with mode.
+- Duplicate rows removed.
+
+### 3. Key Visual Findings
+- Numerical distributions show moderate skewness.
+- Some features have strong positive correlations.
+- Category-based comparison shows noticeable variation.
+
+### 4. Executive Summary
+1. Strong relationships exist between selected numerical features.
+2. Data cleaning improved reliability of analysis.
+3. Dataset is suitable for predictive modeling tasks.
+
+---
+
+# ✅ Submission Checklist
+
+Make sure you submit:
+
+- ✔ MiniProject1_EDA.ipynb
+- ✔ requirements.txt
+- ✔ data_summary.txt
+- ✔ eda_script.py
+- ✔ README.md
+- ✔ Final_Report.pdf
+
+---
+
+If you want, I can also generate a **professional formatted Final_Report PDF structure** ready for direct download.
