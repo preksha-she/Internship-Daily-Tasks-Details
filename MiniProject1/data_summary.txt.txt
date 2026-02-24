@@ -1,13 +1,12 @@
 Dataset Name: Customer Analytics Dataset
 
-Number of Rows: (Check using df.shape[0])
-Number of Columns: (Check using df.shape[1])
+Number of Rows: 255
+Number of Columns: 14
 
-Data Types:
-- Numerical Columns: Age, Income, SpendingScore, etc.
-- Categorical Columns: Gender, City, etc.
+Data Types
+Numerical Columns:CustomerID, Age, AnnualIncome, SpendingScore, YearsEmployed, PurchaseFrequency, OnlineVisitsPerMonth, ReturnedItems, LastPurchaseAmount
+Categorical Columns:Gender, City, Education, MaritalStatus, PreferredDevice
 
-Summary:
-Each row represents one customer.
-The dataset includes demographic and behavioral information
-used to analyze customer patterns and relationships.
+Summary
+Each row in the dataset represents a single customer.
+The dataset contains both demographic details (such as age, gender, education, and marital status) and behavioral information (such as spending score, purchase frequency, and last purchase amount).
