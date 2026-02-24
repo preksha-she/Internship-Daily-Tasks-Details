@@ -13,6 +13,7 @@ The internship was designed to build strong foundational knowledge in:
 - Feature engineering  
 - Statistics and probability  
 - Statistics: Distributions
+– SQL for Data Science
 
 The learning progressed step-by-step from programming fundamentals to machine learning preparation.
 
@@ -174,6 +175,12 @@ Simulated the Central Limit Theorem, observing how sample means form a bell curv
 
 Understood how these concepts help in statistical inference and improve data-driven decision-making.
 ---
+
+# 📌 SQL for Data Science
+
+This project demonstrates the creation of a local SQLite database named `internship.db` to manage an internship cohort. A table called `interns` was created with columns for id, name, track, and stipend, and five sample records were inserted. SQL queries were executed to retrieve specific data, focusing on selecting only required columns instead of using `SELECT *`. This task strengthened my understanding of database creation, table design, data insertion, and writing efficient, professional SQL queries.
+
+
 
 # 🛠 Technologies Used
 
