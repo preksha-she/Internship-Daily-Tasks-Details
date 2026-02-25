@@ -1,0 +1,22 @@
+# Introduction to Machine Learning
+
+## Types of Machine Learning
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+## Regression
+Used when target variable is continuous.
+Example: House price prediction.
+
+## Classification
+Used when target variable is categorical.
+Example: Spam detection.
+
+## Train-Test Split
+Used to evaluate model performance on unseen data.
+
+## Evaluation Metrics for Regression
+- MAE
+- MSE
+- R2 Score
