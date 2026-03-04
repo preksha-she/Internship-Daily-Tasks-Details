@@ -19,7 +19,7 @@ The internship was designed to build strong foundational knowledge in:
 -Introduction to Machine Learning
 -Review I & Problem Statement Selection
  -Brainstorming & Project Deep Dive
-
+-Multivariate Linear Regression – Salary Prediction
 
 The learning progressed step-by-step from programming fundamentals to machine learning preparation.
 
@@ -226,13 +226,17 @@ Clearly understand which ML tools apply to which problems
 
 ---
 
-📍Days 23–25 – Brainstorming & Project Deep Dive
+📍Days 23–25,26 – Brainstorming & Project Deep Dive
 
 Finalized a well-scoped project idea  
 ✔ Defined measurable success criteria  
 ✔ Identified appropriate modeling approaches  
 ✔ Designed a preliminary data flow architecture  
 ✔ Aligned project ambition with realistic constraints  
+
+📍Days 27 -Multivariate Linear Regression – Salary Prediction
+
+This project focuses on building a multivariate (multiple) linear regression model using the hiring.csv dataset to predict candidate salaries based on three key factors: years of experience, written test score, and interview score. The objective was to develop a machine learning solution that can assist the HR department in making data-driven salary decisions for future candidates. The dataset was loaded and analyzed to understand how each feature contributes to salary prediction, followed by basic preprocessing to ensure data quality. A multiple linear regression model was then trained using all three input variables together, and predictions were generated for new candidates to simulate real-world HR decision-making. Through this project, I gained a deeper understanding of how multiple independent variables collectively influence a dependent variable and learned how regression models can be applied in practical business scenarios. This task improved my skills in data analysis, model building, and interpreting prediction results using Python, Pandas, NumPy, and Scikit-learn.
 
 
 # 🛠 Technologies Used
