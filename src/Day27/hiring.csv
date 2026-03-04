@@ -1,0 +1,8 @@
+experience,test_score(out of 10),interview_score(out of 10),salary($)
+zero,8.0,9,50000
+two,9.0,6,60000
+four,6.0,7,65000
+five,7.0,10,70000
+three,,7,62000
+ten,10.0,10,100000
+eleven,7.0,8,90000
