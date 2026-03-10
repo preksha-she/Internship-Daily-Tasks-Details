@@ -22,6 +22,7 @@ The internship was designed to build strong foundational knowledge in:
 -Multivariate Linear Regression 
 -Logistic Regression 
 -Decision Tree (ID3 Algorithm)
+- Support Vector Machines (SVM)
 
 
 
@@ -256,6 +257,22 @@ The third project is **Employee Retention Prediction** using an HR dataset. The 
 
 In this task, I learned the fundamentals of the Decision Tree algorithm using the ID3 method. I created a dataset with features such as outlook, temperature, humidity, and wind to predict whether football can be played. The data was processed using Python libraries like pandas and scikit-learn. Categorical values were converted into numerical format using LabelEncoder so that the model could understand the data. After preparing the dataset, I trained a DecisionTreeClassifier model using the entropy criterion and tested it with sample input. Through this work, I understood how the Decision Tree algorithm classifies data based on conditions and how the ID3 algorithm uses entropy to make decisions. I also learned how to preprocess data, train a machine learning model, and make predictions.
 
+📍Days 32 - Support Vector Machines (SVM)
+
+## Overview
+Today I learned about **Support Vector Machines (SVM)**, a supervised machine learning algorithm used for **classification and regression**. SVM works by finding the best **decision boundary (hyperplane)** that separates different classes in a dataset.
+
+## Key Concepts
+- **Hyperplane:** Decision boundary that separates classes.
+- **Support Vectors:** Data points closest to the hyperplane.
+- **Margin:** Distance between the hyperplane and the nearest data points.
+- **Kernel Trick:** Helps SVM handle non-linear data.
+
+## Conclusion
+SVM is a powerful algorithm that works well for **high-dimensional data** and provides strong classification performance.
+
+---
+📅 *Machine Learning Journey – Day 32*
 
 # 🛠 Technologies Used
 
